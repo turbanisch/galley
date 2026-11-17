@@ -4,11 +4,6 @@
 
 <h1 align="center">Galley</h1>
 
-<p align="center">
-  A PDF reader for papers: see the table, figure or citation<br>
-  a sentence refers to without leaving your place.
-</p>
-
 You are on page 14. The text says "see Table 4". Table 4 is on page 38, the footnote you just
 passed is at the bottom of the page, and "(Dell 2010)" is somewhere in the reference list. Reading
 a paper as a PDF means leaving your place every few sentences and then finding it again.
