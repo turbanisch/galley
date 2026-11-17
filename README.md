@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="Icon/macOS/AppIcon.appiconset/icon_128x128@2x.png" width="128" alt="Galley's icon: a red Fraktur G on paper">
+  <img src="Icon/macOS/AppIcon.appiconset/icon_128x128@2x.png" width="112" alt="Galley's icon: a red Fraktur G on paper">
 </p>
 
-# Galley
+<h1 align="center">Galley</h1>
+
+<p align="center">
+  A PDF reader for papers: see the table, figure or citation<br>
+  a sentence refers to without leaving your place.
+</p>
 
 You are on page 14. The text says "see Table 4". Table 4 is on page 38, the footnote you just
 passed is at the bottom of the page, and "(Dell 2010)" is somewhere in the reference list. Reading
