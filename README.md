@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Icon/macOS/AppIcon.appiconset/icon_128x128@2x.png" width="128" alt="Galley's icon: a red Fraktur G on paper">
+</p>
+
 # Galley
 
 You are on page 14. The text says "see Table 4". Table 4 is on page 38, the footnote you just
@@ -20,9 +24,11 @@ documents.
 
 There is no download yet, so for now you build it yourself, which takes about a minute. You need
 macOS 14 or later and Apple's command line tools (`xcode-select --install`, if you don't have
-them). Then download or clone this repository and run, in its folder:
+them). Then run these three lines in Terminal:
 
 ```bash
+git clone https://github.com/turbanisch/galley.git
+cd galley
 ./build.sh
 ```
 
